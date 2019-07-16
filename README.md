@@ -1,5 +1,5 @@
 # Portfolio Template
-### https://benxgreen.github.io/portfolio-template/
+#### https://benxgreen.github.io/website-template/
 This is a basic portfolio template that I created myself and is the base of my current website. 
 
 This GitHub repository is the base of my current website template and structure, minus my content and images (which have been replaced by royalty-free images on Unsplash). All the template HTML and CSS files are un-minified allowing you to customize as you please. SEO Tags also removed but in place ready to be added to. My template is availible to all for, to use for free, as long as you keep the copyright displayed at the bottom. 
@@ -12,7 +12,7 @@ I started this website from scratch with HTML, then once I added all my chosen c
 ---
 
 ## How to start using this template
-Either download Git or GitHub Desktop and clone/fork https://github.com/benxgreen/the-port.git in bash/terminal or pressing the *Open in Desktop* button in the Clone menu. 
+Either download Git or GitHub Desktop and clone/fork https://github.com/benxgreen/website-template.git in bash/terminal or pressing the *Open in Desktop* button in the Clone menu. 
 
 ---
 
